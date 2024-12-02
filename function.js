@@ -7,6 +7,6 @@ const sum = (firstNum, secNum) => {
 
 sum(x, y);
 
-first_name = "";
-FistName = "";
-firstName = "";
+const total = (num1, num1) => {
+  return num1 * num2;
+};
